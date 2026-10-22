@@ -22,14 +22,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:backgroundTint="#757575"
+        android:backgroundTint="#F44336"
         android:text="Button One" />
 
     <Button
         android:id="@+id/buttonTwo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#757575"
+        android:backgroundTint="#F44336"
         android:text="Button Two" />
 
 </LinearLayout>
